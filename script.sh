@@ -1,2 +1,2 @@
-ls -alt > oleg-test-file.txt
+ls > oleg-test-file.txt
 echo "Hello world from Oleg" > oleg-test-file.txt
